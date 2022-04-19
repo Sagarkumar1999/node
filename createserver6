@@ -1,0 +1,19 @@
+const http= require('http');
+
+const.server= http.createServer(function(req,res){
+
+
+
+});
+
+server.listen(5000);
+
+console.log('Sagar')
+
+
+
+
+
+local/host:5000
+
+
